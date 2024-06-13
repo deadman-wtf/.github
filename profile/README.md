@@ -5,5 +5,5 @@ and the security of their secrets.
 
 ## Want to contribute?
 
-See [research-bounties](https://github.com/deadman-wtf/research-bounties/README.md) and help us solve
+See [research bounties](https://github.com/deadman-wtf/research-bounties) and help us solve
 cool problems.
